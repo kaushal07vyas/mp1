@@ -4,7 +4,7 @@
  */
 
 // HTML Files
-import './index.html';
+// import './index.html';
 
 // Stylesheets
 import './css/main.scss';
